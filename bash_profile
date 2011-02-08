@@ -14,3 +14,7 @@ GIT_PS1_SHOWDIRTYSTATE=1
 
 # setup promt
 PS1='\[\e[1;32m\]\u@\h: \[\e[1;34m\]\w\[\e[0;36m\]$(__git_ps1 " (%s)") \[\e[1;34m\]\$ \[\e[m\]'
+
+# load custom configuration
+[[ -f ~/.bash_local ]] && source ~/.bash_local
+
