@@ -1,7 +1,7 @@
 #!bash
 
 # load completion scripts
-for file in "$HOME/.dotfiles/completion/*"; do source $file; done
+for file in ~/.dotfiles/completion/*; do source $file; done
 
 # load aliases
 [[ -f ~/.bash_aliases ]] && source ~/.bash_aliases
