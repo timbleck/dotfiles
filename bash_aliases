@@ -8,3 +8,6 @@ alias grep='grep --color'
 alias ll='ls -l'
 alias la='ls -al'
 alias pg='ps aux | grep'
+
+alias c='script/console'
+
