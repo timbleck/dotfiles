@@ -12,3 +12,4 @@ alias tf='tail -f'
 
 # rails shortcuts
 alias c='script/console'
+alias t='touch tmp/restart.txt'
