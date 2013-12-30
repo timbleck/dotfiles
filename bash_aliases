@@ -9,8 +9,6 @@ alias ll='ls -l'
 alias la='ls -al'
 
 # rails shortcuts
-alias rails='spring rails'
-alias rake='spring rake'
-alias rspec='spring rspec'
-alias c='rails console'
-alias t='touch tmp/restart.txt'
+# alias rails='spring rails'
+# alias rake='spring rake'
+# alias rspec='spring rspec'
